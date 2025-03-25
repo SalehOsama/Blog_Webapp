@@ -26,7 +26,7 @@ Open Command Prompt and create a virtualenv within your VM instance, activate it
     ```
 
   Your Project directory looks like:
-  django_project
+* django_project
     * Django_Project (Project cloned or downloaded)
     * venv
     * .idea
