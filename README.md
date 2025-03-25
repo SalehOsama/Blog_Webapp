@@ -11,7 +11,7 @@ A Django-based blog web application that allows users to create, read, update, a
 # Installation:
 ## On Local Machine
 
-The Project based on Python version: **Python 3.12.6**. Make sure that in your system **python** is installed and the python --version should be **Python 3.12.6** or **above**.
+The Project is based on Python version: **Python 3.12.6**. Make sure that in your system **python** is installed and the python --version should be **Python 3.12.6** or **above**.
 
 Open Command Prompt and create a virtualenv within your VM instance, activate it, and install all the mentioned dependencies (With the help of pip).
 * Dependencies :
