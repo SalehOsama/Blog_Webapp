@@ -25,7 +25,7 @@ Open Command Prompt and create a virtualenv within your VM instance, activate it
     $ pip install Pillow
     ```
 
-  Now your Project_Task directory looks like:
+  Your Project_Task directory looks like:
   
     * Django_Project (Project cloned or downloaded)
     * venv
