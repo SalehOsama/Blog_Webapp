@@ -32,6 +32,7 @@ Open Command Prompt and create a virtualenv within your VM instance, activate it
     * .idea
   
 
+
 Now, let's run the project. Open Command Prompt and set the path to the project.
 
 For Example, My Project is located on the desktop.
